@@ -1,3 +1,6 @@
+/*
+*This is the first class we are working with.
+*/
 package hello;
 
 public class HelloWorld {
