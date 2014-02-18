@@ -1,6 +1,8 @@
 /*
 *This is the first class we are working with.
 */
+/*Adding a comment for the assignment*/
+
 package hello;
 
 public class HelloWorld {
